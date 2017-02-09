@@ -28,5 +28,6 @@ li {
 #general {
    margin: 50px;
    border-style: solid; 
-   border-color: orangered
+   border-width: 10px;
+   border-color: orangered;
 }
