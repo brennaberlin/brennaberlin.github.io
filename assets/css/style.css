@@ -31,3 +31,12 @@ li {
    border-width: 10px;
    border-color: orangered;
 }
+
+.indeximage {
+    float: right;
+}
+
+.navbar-inverse {
+    color: blanchedalmond;
+    background color: deeppink; 
+    }
