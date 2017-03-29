@@ -38,6 +38,8 @@ li {
     background color: deeppink; 
     }
 
-.dogimage {
-    background-image: images/1.jpeg
+.img-fluid {
+    max-width: 100%;
+    height: auto;
 }
+
